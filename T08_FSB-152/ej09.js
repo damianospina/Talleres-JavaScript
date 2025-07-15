@@ -1,0 +1,3 @@
+texto= "JavaScript es genial y JavaScript es poderoso"
+
+console.log(`texto: ${texto} \nprimer aparacion de JavaScript: posicion ${ texto.indexOf("JavaScript")} \nultima aparacion de JavaScript: posicion ${ texto.lastIndexOf("JavaScript")} \ncontiene genial?: ${texto.includes("genial")} \nempieza con JavaScript: ${texto.startsWith("JavaScript")} \n termina con poderoso?: ${texto.endsWith("poderoso")}`)
