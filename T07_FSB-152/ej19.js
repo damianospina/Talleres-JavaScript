@@ -1,0 +1,1 @@
+console.log(`isNaN(42): ${isNaN(42)} \nisNaN("42"): ${isNaN("42")} \nisNaN('abc'): ${isNaN('abc')} \nisNaN(NaN): ${isNaN(NaN)}`);
